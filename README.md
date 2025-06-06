@@ -1,11 +1,12 @@
 # KayzeNyaFilm
 KayzeNyaFilm es una app web en Angular que muestra la cartelera de películas en estreno usando la API de TMDB. Permite buscar películas, ver detalles, reparto y calificaciones, con animaciones y diseño responsivo. Tecnologías: Angular, Bootstrap, TMDB API, TypeScript y CSS3.
 # Proyecto DALIMOVIES 
-![Logotipo DALIMOVIES](https://raw.githubusercontent.com/IVAN-DALI-GARCIA/ProyectoStremmingLyderli/25bf1031fa650b1e6f829ff97edc581953fe85ab/recursos/iconos/LOGOTIPO%2040X40%20FINAL.svg)
-
+![Logotipo DALIMOVIES](https://github.com/IVAN-DALI-GARCIA/KayzeNyaFilm/blob/main/src/assets/images/DocumentacionImages/ice_screenshot_20250606-130439.png)
+![Logotipo DALIMOVIES](https://github.com/IVAN-DALI-GARCIA/KayzeNyaFilm/blob/main/src/assets/images/DocumentacionImages/ice_screenshot_20250606-130442.png)
+![Logotipo DALIMOVIES](https://github.com/IVAN-DALI-GARCIA/KayzeNyaFilm/blob/main/src/assets/images/DocumentacionImages/ice_screenshot_20250606-130444.png)
 
 #### Proyecto Streaming Lyderli
-Streaming Lyderli es una interfaz web diseñada para simular una plataforma de streaming de películas. Este proyecto tiene como objetivo practicar y aplicar conceptos fundamentales de HTML, CSS y JavaScript, enfocándose en el diseño responsivo, la organización de estilos y la interacción básica con el usuario.
+Streaming Lyderli es una interfaz web diseñada para simular una plataforma de streaming de películas. Este proyecto tiene como objetivo practicar y aplicar conceptos fundamentales de Tecnologías: Angular, Bootstrap, TMDB API, TypeScript y CSS3, enfocándose en el diseño responsivo, la organización de estilos y la interacción básica con el usuario.
 #### Características principales
 - Diseño moderno y responsivo: Adaptado para diferentes tamaños de pantalla mediante el uso de media queries.
 - Carrusel de películas: Implementación de un carrusel interactivo para mostrar recomendaciones de películas.
@@ -31,7 +32,8 @@ I- mplementación de funcionalidad para agregar películas a favoritos.
 ## # Vista del proyecto
 **Este proyecto es ideal para aprender y practicar habilidades de desarrollo frontend, enfocándose en la creación de interfaces atractivas y funcionales.**
 
-![](https://github.com/IVAN-DALI-GARCIA/ProyectoStremmingLyderli/blob/master/recursos/iconos/ice_screenshot_20250405-104913.png?raw=true)
+![Logotipo DALIMOVIES](https://github.com/IVAN-DALI-GARCIA/KayzeNyaFilm/blob/main/src/assets/images/DocumentacionImages/ice_screenshot_20250606-130446.png)
+![Logotipo DALIMOVIES](https://github.com/IVAN-DALI-GARCIA/KayzeNyaFilm/blob/main/src/assets/images/DocumentacionImages/ice_screenshot_20250606-130449.png)
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
