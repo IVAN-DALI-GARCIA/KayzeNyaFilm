@@ -94,7 +94,7 @@ Incluye colores, tipografías, iconos y estilos para que el diseño sea más rea
 Revisar y ajustar: Asegúrate de que el diseño sea claro, funcional y atractivo.
 
 # INSTRUCCIONES DE USO
-![](https://github.com/IVAN-DALI-GARCIA/ProyectoStremmingLyderli/blob/master/recursos/iconos/ice_screenshot_20250405-104913.png?raw=true)
+![Logotipo DALIMOVIES](https://github.com/IVAN-DALI-GARCIA/KayzeNyaFilm/blob/main/src/assets/images/DocumentacionImages/ice_screenshot_20250606-130439.png)
 #### Instrucciones de Uso del Proyecto Streaming DALIMOVIES
 ###### Sigue estos pasos para ejecutar y explorar el proyecto Streaming Lyderli en tu entorno local:
 
@@ -141,7 +141,7 @@ Abre el archivo index.html en tu navegador preferido. Puedes hacerlo de las sigu
 #### ¡Disfruta explorando y personalizando el proyecto!
 
 ##DESCRIPCION DE COMO LO HICE 
-![](https://github.com/IVAN-DALI-GARCIA/ProyectoStremmingLyderli/blob/master/recursos/iconos/ice_screenshot_20250405-104913.png?raw=true)
+![Logotipo DALIMOVIES](https://github.com/IVAN-DALI-GARCIA/KayzeNyaFilm/blob/main/src/assets/images/DocumentacionImages/ice_screenshot_20250606-130439.png)
 #### Descripción de cómo se realizó este proyecto
 ###### El proyecto Streaming Lyderli fue desarrollado siguiendo un enfoque estructurado para aplicar y reforzar conceptos fundamentales de desarrollo web. A continuación, se describe el proceso llevado a cabo:
 
