@@ -53,7 +53,7 @@ I- mplementación de funcionalidad para agregar películas a favoritos.
 - Integración de un backend para gestionar datos dinámicos.
 - Mejora de la accesibilidad para usuarios con discapacidades.
 
-## # Vista del proyecto
+## Vista del proyecto
 
 **Este proyecto es ideal para aprender y practicar habilidades de desarrollo frontend, enfocándose en la creación de interfaces atractivas y funcionales.**
 
@@ -174,12 +174,11 @@ Abre el archivo index.html en tu navegador preferido. Puedes hacerlo de las sigu
 
 - **index.html:** Para modificar la estructura de la página.
 - **styles/styles.css:** Para cambiar los estilos visuales.
-- **imagenes: **Para reemplazar las imágenes del carrusel.
+- **imagenes:**Para reemplazar las imágenes del carrusel.
 
 ##### **6. Agregar nuevas funcionalidades (opcional)**
 
-**Puedes extender el proyecto agregando interactividad con JavaScript o integrando un backend para manejar datos dinámicos.
-**
+**Puedes extender el proyecto agregando interactividad con JavaScript o integrando un backend para manejar datos dinámicos.**
 
 #### ¡Disfruta explorando y personalizando el proyecto!
 
@@ -234,6 +233,8 @@ export const environment = {
 
 # Pruebas de funcionamiento del proyecto KayzeNyaFilm
 
+![Logotipo KayzeNyaFilm](https://github.com/IVAN-DALI-GARCIA/KayzeNyaFilm/blob/feature/tests-home/src/assets/images/Pruebas%20de%20testing/ice_screenshot_20250611-142053.png)
+
 ### Las pruebas de funcionamiento del proyecto KayzeNyaFilm se realizaron para asegurar que todas las funcionalidades y características implementadas funcionen correctamente. A continuación, se detallan las pruebas realizadas:
 
 #### **1. Pruebas de navegación:**
@@ -281,12 +282,12 @@ export const environment = {
 
 #### **1. Problema: Desalineación de elementos en el carrusel**
 
-- ** Causa: **Los elementos del carrusel no se alineaban correctamente debido a un mal uso de flexbox.
+- **Causa:**Los elementos del carrusel no se alineaban correctamente debido a un mal uso de flexbox.
 - **Solución:** Se ajustaron las propiedades display: flex; y align-items: center; en el contenedor principal del carrusel, asegurando que los elementos quedaran alineados horizontal y verticalmente.
 
 #### 2. Problema: Tooltips no visibles:
 
-- **Causa: **Los tooltips personalizados con pseudoelementos ::after no aparecían correctamente.
+- **Causa:**Los tooltips personalizados con pseudoelementos ::after no aparecían correctamente.
 - **Solución**: Se agregó position: relative; al elemento con el atributo title y z-index al tooltip para asegurarse de que estuviera por encima de otros elementos.
 
 #### 3. Problema: Imágenes del carrusel no escalaban correctamente:
@@ -306,7 +307,7 @@ export const environment = {
 
 #### 6. Problema: Iconos de favoritos mal posicionados
 
-- **Causa: **Los iconos <b> no estaban centrados en la parte inferior de las tarjetas de películas.
+- **Causa:**Los iconos <b> no estaban centrados en la parte inferior de las tarjetas de películas.
 - **Solución:** Se utilizó position: absolute;, bottom: 10px;, y transform: translateX(-50%); para centrar los iconos horizontalmente y posicionarlos correctamente.
 
 # RETROSPECTIVA DE PROYECTO
